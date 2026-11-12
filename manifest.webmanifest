@@ -1,1 +1,1 @@
-{"name":"salud y rendimiento","short_name":"salud","start_url":"/salud/","display":"standalone","background_color":"#ECECE8","theme_color":"#1F3B2D","icons":[{"src":"/salud/icon.svg","sizes":"any","type":"image/svg+xml"}]}
+{"name":"salud y rendimiento","short_name":"salud","start_url":"/salud/","display":"standalone","background_color":"#ECECE8","theme_color":"#1F3B2D","icons":[{"src":"/salud/icon.png","sizes":"512x512","type":"image/png"}]}
